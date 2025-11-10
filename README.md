@@ -25,6 +25,7 @@ It combines Natural Language Processing (NLP) and database management for effort
 
 
 
+
 🚀 Running the Application
 
 # Clone the repository
