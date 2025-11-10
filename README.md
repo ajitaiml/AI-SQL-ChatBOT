@@ -43,7 +43,7 @@ uvicorn backend:app --reload
 # Start Streamlit frontend
 streamlit run app.py
 
-🎯 Key Features
+#🎯 Key Features
 
 💬 Natural Language to SQL — Query your database using plain English.
 
