@@ -27,8 +27,8 @@ It combines Natural Language Processing (NLP) and database management for effort
 🚀 Running the Application
 
 # Clone the repository
-git clone https://github.com/ajitaiml/SQL-ChatBot.git
-cd SQL-ChatBot
+git clone https://github.com/ajitaiml/AI-SQL-ChatBot.git
+cd AI-SQL-ChatBot
 
 # Install dependencies
 pip install -r requirements.txt
